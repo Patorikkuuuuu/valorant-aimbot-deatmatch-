@@ -4,3 +4,4 @@ Never inject this aimbot gui to compe/casual, inject this aimbot gui at any mode
 This aimbot gui un-inject its self after a match
 Bans because of stupidity is not my responsible.
 This aimbot is using .JS0N file that makes this invisible to riot client
+join my discord for help discord.gg/qq4FXhxCyk
